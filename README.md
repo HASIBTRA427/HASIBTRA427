@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HASIBTRA427&label=Profile%20views&color=0e75b6&style=flat" alt="HASIBTRA427" /> </p>
 
 
-<a href="https://HASIBTRA427.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-2.4.9-green.svg?style=flat-square"></a>
+<a href="https://HASIBTRA427.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-green.svg?style=flat-square"></a>
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
